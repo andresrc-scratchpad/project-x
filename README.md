@@ -1,2 +1,2 @@
 # project-x
-Valid Jenkinsfile.
+Project with valid Jenkinsfile.
